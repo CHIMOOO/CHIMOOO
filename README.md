@@ -6,4 +6,4 @@ I love tea🍵, hiking🥾, and traveling✈️.
 
 And I enjoy exploring new places and building beautiful web experiences! 
 
-![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=chimooo&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chimoo)](https://github.com/anuraghazra/github-readme-stats)
